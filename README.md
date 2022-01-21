@@ -3,21 +3,19 @@ I'm a computer science student who is passionate about coding and learning, impr
 ```javascript
 const mexicano = {
     pronouns: "He" | "Him",
-
+    code: [C, C++, Java, Javascript],
     technologies:{
         frontEnd: {
             js: ["React","Vainilla"],
             css: [""]
-        }
+        },
         backEnd: {
             java: ["Swing"]
             js: ["Node"]
             
         }
     },
-    code: [C, C++, Java, Javascript]
     learning: []
-    
 }
 ````
 <!--
