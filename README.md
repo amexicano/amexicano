@@ -2,7 +2,6 @@
 I'm a computer science student who is passionate about coding and learning, improving by techs and machines our lifestyle.
 ```javascript
 const mexicano = {
-    pronouns: "He" | "Him",
     code: ['C', 'C++', 'Java', 'Javascript'],
     technologies:{
         frontEnd: {
